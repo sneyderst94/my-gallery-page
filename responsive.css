@@ -1,0 +1,39 @@
+@media (min-width: 320px) and (max-width: 480px) {
+  header {
+    margin-top: 30px;
+  }
+  .profile_container img {
+    width: 101.76px;
+    height: 101.76px;
+  }
+  .profile_container h1 {
+    font-size: 14px;
+  }
+  .profile_container p {
+    font-size: 10px;
+  }
+  .info_container {
+    gap: 10px;
+  }
+  .card {
+    width: 78px;
+    height: 52px;
+  }
+  .card h3 {
+    font-size: 12px;
+  }
+  .card p {
+    font-size: 12px;
+  }
+  .gallery {
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    gap: 5px;
+  }
+  footer {
+    margin-top: 50px;
+    font-size: 12px;
+    width: 100%;
+  }
+}
